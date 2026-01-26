@@ -1,0 +1,172 @@
+.grade-item {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grade-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.grade-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 15px 15px 10px 15px;
+}
+
+.assignment-info {
+  flex: 1;
+}
+
+.assignment-name {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.category-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  border-radius: 12px;
+  color: white;
+}
+
+.category-badge[data-category="assignment"] {
+  background-color: #2196f3;
+}
+
+.category-badge[data-category="quiz"] {
+  background-color: #ff9800;
+}
+
+.category-badge[data-category="exam"] {
+  background-color: #f44336;
+}
+
+.category-badge[data-category="project"] {
+  background-color: #9c27b0;
+}
+
+.category-badge[data-category="homework"] {
+  background-color: #4caf50;
+}
+
+.category-badge[data-category="participation"] {
+  background-color: #607d8b;
+}
+
+.delete-button {
+  background: none;
+  border: none;
+  color: #999;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.delete-button:hover {
+  background-color: #ffebee;
+  color: #f44336;
+  transform: scale(1.1);
+}
+
+.grade-details {
+  padding: 0 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.score-section {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.fraction {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.received {
+  color: #333;
+}
+
+.separator {
+  margin: 0 3px;
+  color: #999;
+}
+
+.total {
+  color: #666;
+}
+
+.percentage {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.letter-grade {
+  font-size: 1.3rem;
+  font-weight: bold;
+  min-width: 30px;
+  text-align: center;
+}
+
+.meta-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.date {
+  margin-bottom: 5px;
+}
+
+.progress-bar {
+  height: 4px;
+  background-color: #f0f0f0;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+  .grade-details {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .score-section {
+    align-self: stretch;
+    justify-content: space-between;
+  }
+  
+  .meta-info {
+    align-items: flex-start;
+  }
+}
