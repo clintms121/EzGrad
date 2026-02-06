@@ -1,0 +1,68 @@
+.Degree-Selection-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background: #ffffff;
+}
+
+.Degree-Selection-Container h2 {
+    color: #000000;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.Degree-Selection-Container input {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px 20px;
+    font-size: 1rem;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    background: #ffffff;
+    color: #000000;
+    outline: none;
+    transition: box-shadow 0.3s ease;
+}
+
+.Degree-Selection-Container input:focus {
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.Degree-Selection-Container input::placeholder {
+    color: #666666;
+}
+
+.degree-dropdown {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 400px;
+    background: #ffffff;
+    border: 2px solid #000000;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.degree-dropdown li {
+    padding: 12px 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #cccccc;
+    color: #000000;
+    transition: background-color 0.2s ease;
+}
+
+.degree-dropdown li:last-child {
+    border-bottom: none;
+    border-radius: 0 0 8px 8px;
+}
+
+.degree-dropdown li:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
