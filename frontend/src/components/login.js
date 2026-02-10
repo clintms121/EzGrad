@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Login.css';
 
-function TrackLogin() {
+function TrackLogin({ onLoginSuccess }) {
   const[user, setUser] = useState("");
   const[pass, setPass] = useState("");
   const[confirmPass, setConfirmPass] = useState("");
@@ -48,6 +48,12 @@ function TrackLogin() {
       if (data.success) {
         setMessage(data.message);
         setIsError(false);
+        
+        setTimeout(() => {
+          if (onLoginSuccess) {
+            onLoginSuccess();
+          }
+        }, 1000);
       } else {
         setMessage(data.message);
         setIsError(true);
