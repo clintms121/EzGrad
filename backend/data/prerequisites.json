@@ -1,0 +1,6364 @@
+{
+  "_metadata": {
+    "description": "Per-course prerequisite, credit-hour, and difficulty data for EzGrad.",
+    "source": "Rogers State University Course Catalog (needed_format.py)",
+    "generated_by": "parse_courses.py",
+    "note": "Re-run parse_courses.py to refresh this file from the raw catalog data."
+  },
+  "EDUC 1600": {
+    "name": "Teacher Education Prep Seminar",
+    "credit_hours": 0,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "EDUC 3013": {
+    "name": "Differentiation for Culturally and Linguistically Diverse Learners",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3243": {
+    "name": "Literacy and Writing in Elementary and Middle School",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "EDUC 3233"
+    ]
+  },
+  "EDUC 4883": {
+    "name": "Selected Topics in Education",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "EDUC 3003"
+    ]
+  },
+  "EMS 2104": {
+    "name": "Medical Emergencies",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "EMS 1225"
+    ]
+  },
+  "SPED 3103": {
+    "name": "The Exceptional Child",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ACCT 1113": {
+    "name": "Introduction to Accounting",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ACCT 2103": {
+    "name": "Accounting I-Financial",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ACCT 2203": {
+    "name": "Accounting II - Managerial",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ACCT 2103"
+    ]
+  },
+  "ACCT 2500": {
+    "name": "Cooperative Education in Accounting",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ACCT 3113": {
+    "name": "Intermediate Accounting I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2103",
+      "ACCT 2203",
+      "ECON 2123",
+      "BADM 2843",
+      "BADM 3113"
+    ]
+  },
+  "ACCT 3123": {
+    "name": "Intermediate Accounting II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 3113"
+    ]
+  },
+  "ACCT 3133": {
+    "name": "Cost Accounting",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2103",
+      "ACCT 2203"
+    ]
+  },
+  "ACCT 3143": {
+    "name": "Individual Income Tax Accounting",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2203"
+    ]
+  },
+  "ACCT 3243": {
+    "name": "Accounting Information Systems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2203"
+    ]
+  },
+  "ACCT 3443": {
+    "name": "Nonprofit Fiscal Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ACCT 3500": {
+    "name": "Cooperative Education in Accounting",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ACCT 4113": {
+    "name": "Business Combination Accounting",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 3113"
+    ]
+  },
+  "ACCT 4123": {
+    "name": "Internal Auditing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 2203"
+    ]
+  },
+  "ACCT 4133": {
+    "name": "Accounting and Financial Analytics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 3113",
+      "ACCT 3133"
+    ]
+  },
+  "ACCT 4213": {
+    "name": "Financial Statement Analysis",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FINA 3503"
+    ]
+  },
+  "ACCT 4313": {
+    "name": "Auditing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 3113"
+    ]
+  },
+  "ACCT 4323": {
+    "name": "Not-For-Profit/Governmental Acctng",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 2203"
+    ]
+  },
+  "ACCT 4333": {
+    "name": "Fraud Investigation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 4313"
+    ]
+  },
+  "ACCT 4343": {
+    "name": "Fraud Examination",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 4313"
+    ]
+  },
+  "ACCT 4353": {
+    "name": "Fraud:Criminology and Ethics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 4313"
+    ]
+  },
+  "ACCT 4363": {
+    "name": "Legal Elements of Fraud",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 4313"
+    ]
+  },
+  "ACCT 4413": {
+    "name": "Entity Taxation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 3143"
+    ]
+  },
+  "ACCT 4500": {
+    "name": "Cooperative Education in Accounting",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 4793": {
+    "name": "Accounting Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 3113"
+    ]
+  },
+  "ACCT 5113": {
+    "name": "Accounting for Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 5213": {
+    "name": "Financial Statement Analysis",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 5223": {
+    "name": "International Accounting",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 5233": {
+    "name": "Accounting & Financial Analytics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 5243": {
+    "name": "External Auditing and Assurance Services",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ACCT 5253": {
+    "name": "Information Systems Assurance and Advisory",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 1103": {
+    "name": "Art Foundations I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ART 1113": {
+    "name": "Art Appreciation",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ART 1151": {
+    "name": "BFA Success Strategies",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ART 1203": {
+    "name": "Art Foundations II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ART 1213": {
+    "name": "Digital Foundations",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ART 1223": {
+    "name": "Graphic Design I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1213"
+    ]
+  },
+  "ART 1323": {
+    "name": "Typography",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1213"
+    ]
+  },
+  "ART 1413": {
+    "name": "Drawing I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1203"
+    ]
+  },
+  "ART 1423": {
+    "name": "Drawing II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1413"
+    ]
+  },
+  "ART 1833": {
+    "name": "Black/White Photography I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1103"
+    ]
+  },
+  "ART 1913": {
+    "name": "Printmaking I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ART 1103"
+    ]
+  },
+  "ART 2033": {
+    "name": "Black/White Photography II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1833"
+    ]
+  },
+  "ART 2113": {
+    "name": "Life Drawing I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "ART 1103",
+        "ART 1203",
+        "ART 1413"
+      ]
+    ]
+  },
+  "ART 2213": {
+    "name": "Watercolor I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1203",
+      "ART 1413"
+    ]
+  },
+  "ART 2383": {
+    "name": "Advanced Digital Imaging",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1223"
+    ]
+  },
+  "ART 2413": {
+    "name": "Three-Dimensional Art I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1203"
+    ]
+  },
+  "ART 2423": {
+    "name": "Graphic Design II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1223"
+    ]
+  },
+  "ART 2453": {
+    "name": "Wheel-Throwing I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1203"
+    ]
+  },
+  "ART 2553": {
+    "name": "Digital 3D Foundations",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1213",
+      "ART 1223",
+      "ART 1413",
+      "ART 1423"
+    ]
+  },
+  "ART 2813": {
+    "name": "Painting I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "ART 1103",
+        "ART 1203",
+        "ART 1413"
+      ]
+    ]
+  },
+  "ART 2910": {
+    "name": "Individual Studio/Internship",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ART 3003": {
+    "name": "Western Art History to 1400",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3013": {
+    "name": "Western Art History 1400-1850",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3023": {
+    "name": "Nonprofit Fine Arts Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3113": {
+    "name": "Life Drawing II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "ART 1103",
+        "ART 1203",
+        "ART 1413",
+        "ART 2113"
+      ]
+    ]
+  },
+  "ART 3123": {
+    "name": "Graphic Design III",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2423"
+    ]
+  },
+  "ART 3133": {
+    "name": "History of Non-Western Art",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3213": {
+    "name": "Western Art History 1850-Present",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3223": {
+    "name": "Watercolor II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2213"
+    ]
+  },
+  "ART 3233": {
+    "name": "Printmaking II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3313": {
+    "name": "Art Theory I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3413": {
+    "name": "Applied/Package Design",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 3123"
+    ]
+  },
+  "ART 3443": {
+    "name": "Three-Dimensional Art II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2413"
+    ]
+  },
+  "ART 3463": {
+    "name": "Wheel-Throwing II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2453"
+    ]
+  },
+  "ART 3523": {
+    "name": "Artistic Authoring and Animation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2423"
+    ]
+  },
+  "ART 3543": {
+    "name": "Artistic Website Design",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2423"
+    ]
+  },
+  "ART 3553": {
+    "name": "Digital 3D Studio",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2553"
+    ]
+  },
+  "ART 3613": {
+    "name": "Painting II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2813"
+    ]
+  },
+  "ART 3633": {
+    "name": "Art Marketing",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 1103",
+      "ART 1203",
+      "ART 1213"
+    ]
+  },
+  "ART 3713": {
+    "name": "East Asian Art History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3883": {
+    "name": "Digital Color Photography",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 1833",
+      "ART 1223"
+    ]
+  },
+  "ART 3910": {
+    "name": "Directed Studies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ART 3943": {
+    "name": "Photographic Applications I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ART 2033",
+      "ART 3883"
+    ]
+  },
+  "ART 4223": {
+    "name": "Hist of Graphic Design/Multimedia",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4243": {
+    "name": "Photographic Applications II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ART 3943"
+    ]
+  },
+  "ART 4313": {
+    "name": "Art Theory II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4333": {
+    "name": "The Italian Renaissance(1400-1600)",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4353": {
+    "name": "Contemporary Art and Criticism",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4373": {
+    "name": "Ancient Greek and Roman Art History",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4413": {
+    "name": "Native American Art",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4433": {
+    "name": "Sequential Art",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ART 2553"
+    ]
+  },
+  "ART 4513": {
+    "name": "Art Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4533": {
+    "name": "Art Studies-At-Large",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4613": {
+    "name": "Baroque Art History",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4623": {
+    "name": "Romanticism in Arts, Lit & Music",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ART 4853": {
+    "name": "Graphic Design Practicum",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ART 3123"
+    ]
+  },
+  "ART 4953": {
+    "name": "Senior Capstone Portfolio",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BIOL 0123": {
+    "name": "Science Proficiency",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "BIOL 1114": {
+    "name": "General Biology",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "BIOL 1134": {
+    "name": "Intro to Environmental Science",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "BIOL 1144": {
+    "name": "General Cellular Biology",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "BIOL 2021": {
+    "name": "Citizen Science",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": [
+      "BIOL 1114",
+      "BIOL 1134",
+      "BIOL 1144"
+    ]
+  },
+  "BIOL 2104": {
+    "name": "General Botany",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "BIOL 1144"
+    ]
+  },
+  "BIOL 2204": {
+    "name": "Human Anatomy",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 1144",
+        "BIOL 2205"
+      ]
+    ]
+  },
+  "BIOL 2205": {
+    "name": "General Zoology",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": [
+      "BIOL 1144"
+    ]
+  },
+  "BIOL 2215": {
+    "name": "Anatomy and Physiology",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": [
+      "BIOL 1144"
+    ]
+  },
+  "BIOL 3001": {
+    "name": "Introduction to Biology Research",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 1144"
+    ]
+  },
+  "BIOL 3004": {
+    "name": "Field Botany",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2104"
+    ]
+  },
+  "BIOL 3014": {
+    "name": "Ecology of Mammals",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2205"
+    ]
+  },
+  "BIOL 3024": {
+    "name": "Genetics",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 1144",
+      "CHEM 1315",
+      "MATH 2843"
+    ]
+  },
+  "BIOL 3033": {
+    "name": "Fundamentals of GIS",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "BIOL 3034": {
+    "name": "General Ecology",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2104",
+      "BIOL 2205"
+    ]
+  },
+  "BIOL 3103": {
+    "name": "Plants and Civilization",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 1114",
+        "BIOL 1134",
+        "BIOL 1144"
+      ]
+    ]
+  },
+  "BIOL 3203": {
+    "name": "Bioethics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1113"
+    ],
+    "prerequisites_any": [
+      [
+        "BIOL 1114",
+        "BIOL 1134",
+        "BIOL 1144"
+      ]
+    ]
+  },
+  "BIOL 3204": {
+    "name": "Physiology",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 1144",
+        "BIOL 2205"
+      ],
+      [
+        "BIOL 2204",
+        "CHEM 1315"
+      ]
+    ]
+  },
+  "BIOL 3214": {
+    "name": "Microbiology",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 1144"
+    ],
+    "prerequisites_any": [
+      [
+        "CHEM 1104",
+        "CHEM 1315"
+      ]
+    ]
+  },
+  "BIOL 3275": {
+    "name": "Comparative Vertebrate Anatomy",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2205"
+    ]
+  },
+  "BIOL 3403": {
+    "name": "Biological Statistics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "MATH 1513",
+        "MATH 1413"
+      ]
+    ]
+  },
+  "BIOL 3503": {
+    "name": "Molecular Cell Biology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 1144",
+      "CHEM 1315",
+      "CHEM 1415"
+    ]
+  },
+  "BIOL 3512": {
+    "name": "Molecular Techniques",
+    "credit_hours": 2,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 3503"
+    ]
+  },
+  "BIOL 3513": {
+    "name": "Environmental Conservation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 3034"
+    ]
+  },
+  "BIOL 3514": {
+    "name": "Forest Ecology and Management",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2104"
+    ]
+  },
+  "BIOL 3950": {
+    "name": "Special Topics in Biology",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BIOL 4014": {
+    "name": "Ornithology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 2205"
+    ]
+  },
+  "BIOL 4153": {
+    "name": "Molecular Genetics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 1144",
+      "CHEM 1415",
+      "CHEM 3125"
+    ]
+  },
+  "BIOL 4214": {
+    "name": "Histology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 2204",
+        "BIOL 3204"
+      ]
+    ]
+  },
+  "BIOL 4303": {
+    "name": "Plant and Animal Toxicology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 2104",
+      "BIOL 2205",
+      "CHEM 3125"
+    ]
+  },
+  "BIOL 4414": {
+    "name": "Immunology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 3204",
+        "BIOL 3503"
+      ]
+    ]
+  },
+  "BIOL 4503": {
+    "name": "Molecular Virology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 1144",
+      "CHEM 1315"
+    ]
+  },
+  "BIOL 4514": {
+    "name": "Applied Techniques in Eco/Cnservtn",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 3034"
+    ]
+  },
+  "BIOL 4534": {
+    "name": "Limnology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 2205",
+      "CHEM 1315"
+    ]
+  },
+  "BIOL 4544": {
+    "name": "Herpetology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 2205"
+    ]
+  },
+  "BIOL 4554": {
+    "name": "Aquatic Biology",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 2104",
+      "BIOL 2205",
+      "CHEM 1315",
+      "CHEM 1415"
+    ]
+  },
+  "BIOL 4611": {
+    "name": "Biology Research Methods I",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 3001"
+    ]
+  },
+  "BIOL 4801": {
+    "name": "Biology Research Methods II",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": [
+      "BIOL 4611"
+    ]
+  },
+  "MLS 4117": {
+    "name": "Clinical Microbiology",
+    "credit_hours": 7,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MLS 4125": {
+    "name": "Clinical Chemistry I",
+    "credit_hours": 5,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MLS 4236": {
+    "name": "Clinical Hematology",
+    "credit_hours": 6,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MLS 4246": {
+    "name": "Clinical Immunology/Immunohematology",
+    "credit_hours": 6,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MLS 4325": {
+    "name": "Clinical Chemistry II",
+    "credit_hours": 5,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MLS 4351": {
+    "name": "Topics in Medical Technology",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 1203": {
+    "name": "Introduction To Business",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "BADM 2013": {
+    "name": "Personal Finance",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "BADM 2500": {
+    "name": "Cooperative Educ in Business Admin",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "BADM 2843": {
+    "name": "Business Statistics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "BADM 3113": {
+    "name": "Business Communications",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1113"
+    ]
+  },
+  "BADM 3323": {
+    "name": "Legal Environment of Business",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BADM 3333": {
+    "name": "Business and Professional Ethics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BADM 3500": {
+    "name": "Cooperative Educ in Business Admin",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BADM 3913": {
+    "name": "Practical Skills for Professionals",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BADM 3950": {
+    "name": "Special Topics in Business",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BADM 4333": {
+    "name": "International Business",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "BADM 4500": {
+    "name": "Cooperative Educ in Business Admin",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 4793": {
+    "name": "Business Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 2103",
+      "ACCT 2203",
+      "ECON 2123",
+      "BADM 2843",
+      "BADM 3113"
+    ]
+  },
+  "BADM 4803": {
+    "name": "Accounting and Finance Concepts",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 5143": {
+    "name": "Business Analytics I",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 5223": {
+    "name": "Business Law",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 5233": {
+    "name": "Critical Thinking and Ethics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 5243": {
+    "name": "Business Analytics II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "BADM 5973": {
+    "name": "ST:Business Administration",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CHE 3113": {
+    "name": "Chemical Engineering Fundamentals",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1415"
+    ]
+  },
+  "CHE 3213": {
+    "name": "Chemical Reaction Engineering",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHE 3113"
+    ]
+  },
+  "CHE 3243": {
+    "name": "Chemical Engineering Economics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGR 1312",
+      "CHE 3113"
+    ]
+  },
+  "CHE 3313": {
+    "name": "Numerical Methods for Engineering Computations",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 3113"
+    ]
+  },
+  "CHE 3413": {
+    "name": "Heat and Mass Transfer I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 3113",
+      "CHE 3713",
+      "CHE 3913"
+    ]
+  },
+  "CHE 3513": {
+    "name": "Structure and Properties of Materials",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1415",
+      "PHYS 2115"
+    ]
+  },
+  "CHE 3613": {
+    "name": "Separation Processes",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHE 3113",
+      "CHEM 3125",
+      "PHYS 2015"
+    ]
+  },
+  "CHE 3712": {
+    "name": "Chemical Engineering Laboratory I",
+    "credit_hours": 2,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHE 3413",
+      "CHE 3713"
+    ]
+  },
+  "CHE 3713": {
+    "name": "Fluid Mechanics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PHYS 2015",
+      "MATH 3113"
+    ]
+  },
+  "CHE 3913": {
+    "name": "Chemical Engineering Thermodynamics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PHYS 2015",
+      "CHEM 1315",
+      "MATH 3113"
+    ]
+  },
+  "CHE 4113": {
+    "name": "Chemical Engineering Design I",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 3243",
+      "CHE 3213"
+    ]
+  },
+  "CHE 4123": {
+    "name": "Chemical Engineering Design II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 4113"
+    ]
+  },
+  "CHE 4143": {
+    "name": "Chemical Process Safety",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 3213"
+    ]
+  },
+  "CHE 4213": {
+    "name": "Chemical Process Control",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 3213",
+      "CHE 4712"
+    ]
+  },
+  "CHE 4313": {
+    "name": "Chemical Engineering Kinetics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHEM 1415",
+      "PHYS 2115"
+    ]
+  },
+  "CHE 4413": {
+    "name": "Heat and Mass Transfer II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 3413"
+    ]
+  },
+  "CHE 4712": {
+    "name": "Chemical Engineering Laboratory II",
+    "credit_hours": 2,
+    "difficulty": 5,
+    "prerequisites": [
+      "CHE 3712"
+    ]
+  },
+  "CHEM 1104": {
+    "name": "Principles of Chemistry",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CHEM 1315": {
+    "name": "General Chemistry I",
+    "credit_hours": 5,
+    "difficulty": 2,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "CHEM 1415": {
+    "name": "General Chemistry II",
+    "credit_hours": 5,
+    "difficulty": 2,
+    "prerequisites": [
+      "CHEM 1315"
+    ]
+  },
+  "CHEM 3125": {
+    "name": "Organic Chemistry I",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1415"
+    ]
+  },
+  "CHEM 3225": {
+    "name": "Organic Chemistry II",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1315"
+    ]
+  },
+  "CHEM 3323": {
+    "name": "Physical Chemistry",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1415",
+      "PHYS 2115"
+    ]
+  },
+  "CHEM 3404": {
+    "name": "Biochemistry",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 3225"
+    ]
+  },
+  "CHEM 3515": {
+    "name": "Environmental Chemistry",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": [
+      "CHEM 1415"
+    ]
+  },
+  "CHEM 3950": {
+    "name": "ST:Chemistry",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "COMM 1003": {
+    "name": "Introduction to Mass Communication",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COMM 1011": {
+    "name": "TV Studio Production",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COMM 1123": {
+    "name": "Interpersonal Communications",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COMM 1713": {
+    "name": "Voice and Articulation",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COMM 2003": {
+    "name": "Video Production",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 2013": {
+    "name": "Audio Production",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 2243": {
+    "name": "Public Speaking",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SPCH 1113"
+    ]
+  },
+  "COMM 2413": {
+    "name": "Theatre Appreciation",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "COMM 2433": {
+    "name": "Stagecraft",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "COMM 2523": {
+    "name": "Acting",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "COMM 2703": {
+    "name": "Radio/Television Announcing",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "COMM 2013"
+    ]
+  },
+  "COMM 2723": {
+    "name": "Small Group Discussion",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SPCH 1113"
+    ]
+  },
+  "COMM 2801": {
+    "name": "Audio Practicum",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "COMM 2811": {
+    "name": "Video Practicum",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": [
+      "COMM 2801"
+    ]
+  },
+  "COMM 2821": {
+    "name": "Mass Media Practicum",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": [
+      "COMM 2811"
+    ]
+  },
+  "COMM 3023": {
+    "name": "Writing For The Media",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3033": {
+    "name": "Advanced Corporate Media",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "COMM 2003",
+        "COMM 2013",
+        "COMM 3023"
+      ]
+    ]
+  },
+  "COMM 3113": {
+    "name": "Public Relations Strategies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3123": {
+    "name": "Public Relations Writing",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3173": {
+    "name": "News Reporting",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003",
+      "COMM 3023"
+    ]
+  },
+  "COMM 3233": {
+    "name": "Media Sales and Advertising",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3253": {
+    "name": "Argumentation and Persuasion",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPCH 1113"
+    ]
+  },
+  "COMM 3313": {
+    "name": "Digital Design",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3413": {
+    "name": "Media Law",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3613": {
+    "name": "Mass Media Communication",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "COMM 3633": {
+    "name": "Advertising Strategies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3713": {
+    "name": "Communication Research Methods",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3753": {
+    "name": "Advanced Video Production",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 2003"
+    ]
+  },
+  "COMM 3833": {
+    "name": "Media Theory",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 3853": {
+    "name": "Sports Broadcasting",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 2013"
+    ]
+  },
+  "COMM 3873": {
+    "name": "Gender and Technology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "COMM 3883": {
+    "name": "New Media and Society",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 4103": {
+    "name": "Directing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "COMM 2413"
+    ]
+  },
+  "COMM 4153": {
+    "name": "Nonverbal Communication",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "SPCH 1113",
+      "COMM 1123"
+    ]
+  },
+  "COMM 4163": {
+    "name": "Global Communication",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 4203": {
+    "name": "Media Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "COMM 4223": {
+    "name": "Communication in Organizations",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "COMM 1003"
+    ]
+  },
+  "COMM 4253": {
+    "name": "Broadcast Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "COMM 4283": {
+    "name": "Communication Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "COMM 4323": {
+    "name": "Women and Minorities in Media",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "COMM 4513": {
+    "name": "Script Writing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ENGL 2023"
+    ]
+  },
+  "COMM 4623": {
+    "name": "Documentary Production",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "COMM 3753"
+    ]
+  },
+  "COMM 4913": {
+    "name": "Senior Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 2013": {
+    "name": "Intro to Counseling and Ethics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "PSY 1113",
+        "SOC 1113"
+      ]
+    ]
+  },
+  "CC 2033": {
+    "name": "Self-Care for Helping Professionals",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CC 2223": {
+    "name": "Chemical Abuse in Spec Populations",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CC 3013": {
+    "name": "Multicultural Counseling",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CC 3023": {
+    "name": "Community Couns Theory and Practice",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CC 3033": {
+    "name": "Intervention Strategies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CC 3213": {
+    "name": "Group Dynamics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CC 4500": {
+    "name": "Special Topics:Community Counseling",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "PSY 1113",
+        "SOC 1113",
+        "CC 2013"
+      ]
+    ]
+  },
+  "CC 4513": {
+    "name": "Research & Eval Counseling Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "SBS 3013"
+    ]
+  },
+  "CC 5103": {
+    "name": "Introduction to the Counseling Prof",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5113": {
+    "name": "Counseling Theory",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5153": {
+    "name": "Clinical Psychopathology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5213": {
+    "name": "Ethnicity & Culture in Counslng Fld",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5233": {
+    "name": "Evaluation Methods in Psychology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5263": {
+    "name": "Life and Developmental Stages",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5313": {
+    "name": "Practicum I",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CC 5413": {
+    "name": "Practicum II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5313"
+    ]
+  },
+  "CC 5443": {
+    "name": "Individual Testing and Assessment",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5233"
+    ]
+  },
+  "CC 5473": {
+    "name": "Reserch in the Counseling Professns",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5493": {
+    "name": "Counseling Theories & Applications",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CC 5511": {
+    "name": "Applied Research",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5523": {
+    "name": "Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CC 5613": {
+    "name": "Trauma Informed Therapy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5643": {
+    "name": "Ethical Standards in Consultation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5663": {
+    "name": "Counseling Clients -Prsnlty Dsorder",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CC 5693": {
+    "name": "Clinical Supervision",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5700": {
+    "name": "Current Topics in Counseling",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5713": {
+    "name": "Group Dynamics and Processes",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5103"
+    ]
+  },
+  "CC 5743": {
+    "name": "Career & Life Style Development",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5763": {
+    "name": "Social and Cultural Foundations",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5783": {
+    "name": "Addictions and Family Systems Couns",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5813": {
+    "name": "Advanced Studies in Human Sexuality",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5843": {
+    "name": "Marriage & Family Systems in Counse",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CC 5863": {
+    "name": "Somatic Issues in Counseling & Hlth",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5883": {
+    "name": "Psychopharmacology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CC 5903": {
+    "name": "Rehabilitation Counseling",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CC 5113"
+    ]
+  },
+  "CAD 2114": {
+    "name": "Computer Graphics I",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CS 3843": {
+    "name": "Special Problems in Game Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 1413",
+      "CS 3813"
+    ]
+  },
+  "CS 1113": {
+    "name": "Microcomputer Applications",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 1123": {
+    "name": "Word Processing I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 1133": {
+    "name": "Excel",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "CS 1113"
+    ]
+  },
+  "CS 1163": {
+    "name": "Access",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 1213": {
+    "name": "Introduction to Computing",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 1233": {
+    "name": "Foundations of Digital Literacy & AI",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 1323": {
+    "name": "Intro to Artificial Intelligence (AI)",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "CS 1413": {
+    "name": "Introduction to Game Development",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CS 2163": {
+    "name": "Web Site Design and Development",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1113"
+    ]
+  },
+  "CS 2173": {
+    "name": "Video Game Design Fundamentals",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1413"
+    ]
+  },
+  "CS 2213": {
+    "name": "Visual Basic",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1213"
+    ]
+  },
+  "CS 2223": {
+    "name": "Programming I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1213"
+    ]
+  },
+  "CS 2273": {
+    "name": "Introduction to Computer Graphics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1413"
+    ]
+  },
+  "CS 2293": {
+    "name": "Java Programming",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CS 2323": {
+    "name": "Programming II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 2223"
+    ]
+  },
+  "CS 2513": {
+    "name": "Formal Languages and Automata",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 2264"
+    ]
+  },
+  "CS 2553": {
+    "name": "3D Modeling",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CS 2643": {
+    "name": "AI Ethics and Society",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CS 1323"
+    ]
+  },
+  "CS 2970": {
+    "name": "Special Topics in Computer Science",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CS 3003": {
+    "name": "Python Programming",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 1213"
+    ]
+  },
+  "CS 3163": {
+    "name": "Advanced Game Design Techniques",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2173"
+    ]
+  },
+  "CS 3213": {
+    "name": "Multimedia Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 1113"
+    ]
+  },
+  "CS 3223": {
+    "name": "Data Modeling",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2223"
+    ]
+  },
+  "CS 3333": {
+    "name": "Object-Oriented Technology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323"
+    ]
+  },
+  "CS 3343": {
+    "name": "Mobile Application Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323"
+    ]
+  },
+  "CS 3353": {
+    "name": "Agile Software Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323"
+    ]
+  },
+  "CS 3363": {
+    "name": "Data Structures",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323"
+    ]
+  },
+  "CS 3413": {
+    "name": "Systems Analysis",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2223"
+    ]
+  },
+  "CS 3423": {
+    "name": "Software Engineering",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3413"
+    ]
+  },
+  "CS 3433": {
+    "name": "Discrete Mathematics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 2264",
+      "CS 2223"
+    ]
+  },
+  "CS 3523": {
+    "name": "Distributed Systems Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323",
+      "IT 3153"
+    ]
+  },
+  "CS 3533": {
+    "name": "Artificial Intelligence",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3003"
+    ]
+  },
+  "CS 3553": {
+    "name": "3-D Character Rigging and Animation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2553"
+    ]
+  },
+  "CS 3573": {
+    "name": "Operating Systems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "IT 3723"
+    ]
+  },
+  "CS 3623": {
+    "name": "Human-Computer Interface",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2223"
+    ]
+  },
+  "CS 3643": {
+    "name": "Machine Learning Fundamentals",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3533"
+    ]
+  },
+  "CS 3663": {
+    "name": "Information Retrieval and Analysis",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3003"
+    ]
+  },
+  "CS 3733": {
+    "name": "Computer Graphics Programming",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 3523",
+      "CS 2323"
+    ]
+  },
+  "CS 3753": {
+    "name": "Intro to Modeling & Simulation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BADM 2843"
+    ]
+  },
+  "CS 3763": {
+    "name": "Data Mining and Analytics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3223"
+    ]
+  },
+  "CS 3813": {
+    "name": "Game Programming I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3363"
+    ]
+  },
+  "CS 3823": {
+    "name": "Game Programming II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3813",
+      "CS 3733"
+    ]
+  },
+  "CS 3863": {
+    "name": "Natural Language Processing (NLP)",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 3763",
+      "CS 3533"
+    ]
+  },
+  "CS 4403": {
+    "name": "Game Development Seminar",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CS 4503": {
+    "name": "Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 4403"
+    ]
+  },
+  "CS 4523": {
+    "name": "Advanced Web Systems Development",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 2163",
+      "CS 2223"
+    ]
+  },
+  "CS 4603": {
+    "name": "Game Programming II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 3813"
+    ]
+  },
+  "CS 4643": {
+    "name": "Deep Learning",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 3643"
+    ]
+  },
+  "CS 4753": {
+    "name": "Computer Vision",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 3643"
+    ]
+  },
+  "CS 4823": {
+    "name": "Special Problems in Natural Language Processing (NLP)",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CS 3863"
+    ]
+  },
+  "IT 4453": {
+    "name": "Ethical Hacking",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "COED 1120": {
+    "name": "Introduction to Work Experience",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COED 1123": {
+    "name": "Intern",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "COED 2110": {
+    "name": "Advanced Work Experience",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 1113": {
+    "name": "Introduction to Criminal Justice",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CJ 1213": {
+    "name": "Introduction to Corrections",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "CJ 2013": {
+    "name": "Criminal Law I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CJ 1113"
+    ]
+  },
+  "CJ 2150": {
+    "name": "Criminal Justice Seminar",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 2343": {
+    "name": "Community Relations",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 2563": {
+    "name": "CLEET I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CJ 2013"
+    ]
+  },
+  "CJ 2711": {
+    "name": "CLEET Firearms",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 2721": {
+    "name": "CLEET Skills",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 2731": {
+    "name": "CLEET Law Enforcement Vehicle Op.",
+    "credit_hours": 1,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "CJ 3003": {
+    "name": "Criminalistics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CJ 2013"
+    ]
+  },
+  "CJ 3013": {
+    "name": "Criminal Procedures",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CJ 3113": {
+    "name": "CLEET II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CJ 2563",
+      "CJ 3013"
+    ]
+  },
+  "CJ 3213": {
+    "name": "Criminal Law II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CJ 2013"
+    ]
+  },
+  "CJ 3263": {
+    "name": "Native American Law",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CJ 3313": {
+    "name": "American Court System",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CJ 1113",
+      "POLS 1113"
+    ]
+  },
+  "CJ 3413": {
+    "name": "Ethical Decision-Making",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CJ 3523": {
+    "name": "Interview and Interrogation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CJ 3613": {
+    "name": "Criminal Justice Research/Analysis",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "CJ 3950": {
+    "name": "Special Topics In Criminal Justice",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CJ 2013",
+      "CJ 1213"
+    ]
+  },
+  "CJ 4213": {
+    "name": "Administration of Criminal Justice",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CJ 4313": {
+    "name": "Constitutional Concepts",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CJ 4413": {
+    "name": "Evidentiary Standard",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "CJ 4613": {
+    "name": "Criminal Justice Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "CJ 3013"
+    ]
+  },
+  "CJ 4953": {
+    "name": "Justice Administration Sr Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ECON 2113": {
+    "name": "Principles of Macroeconomics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ECON 2123": {
+    "name": "Principles of Microeconomics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ECON 2190": {
+    "name": "Seminar in Economics",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "ECON 2113",
+      "ECON 2123"
+    ]
+  },
+  "ECON 3003": {
+    "name": "Internatnl Econ Issues & Policies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ECON 2113"
+    ]
+  },
+  "ECON 4213": {
+    "name": "Evironmental Economics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ECON 2113"
+    ]
+  },
+  "ECON 4413": {
+    "name": "Comparative Economic Systems",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ECON 2113",
+      "ECON 2123"
+    ]
+  },
+  "ECON 5123": {
+    "name": "Managerial Economics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ECON 5233": {
+    "name": "Comparative Economic Systems",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 3003": {
+    "name": "Introduction to Teaching",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3023": {
+    "name": "Creativity and Critical Thinking in the Elementary Classroom",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3103": {
+    "name": "Teaching Children with Exceptionalities",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3133": {
+    "name": "Literature in the Classroom",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3233": {
+    "name": "Teaching Literacy in the Primary Grades",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3273": {
+    "name": "Content and Pedagogy in Elementary Mathematics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3433": {
+    "name": "Technology Across the Curriculum",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3723": {
+    "name": "Content and Pedagogy in Elem Math",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "EDUC 3753": {
+    "name": "Educational Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 3043"
+    ]
+  },
+  "EDUC 4113": {
+    "name": "Teaching Language Arts in Elementary and Middle School",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4253": {
+    "name": "Assessment and Intervention in Literacy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "EDUC 3243"
+    ]
+  },
+  "EDUC 4313": {
+    "name": "Classroom Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4453": {
+    "name": "Content and Pedagogy in Elementary Science",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4463": {
+    "name": "Content and Pedagogy in Elementary & Middle School Social Studies",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4622": {
+    "name": "Assessment and Data-Driven Instruction",
+    "credit_hours": 2,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4653": {
+    "name": "Pre-Internship II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4935": {
+    "name": "Clinical Experiences in Teaching I (Full-Internship)",
+    "credit_hours": 5,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUC 4945": {
+    "name": "Clinical Experiences in Teaching II (Full-Internship)",
+    "credit_hours": 5,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ENGR 1312": {
+    "name": "Introduction to Engineering Computing",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ENGR 1411": {
+    "name": "Engineering Orientation",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ENGR 2213": {
+    "name": "Introduction to Thermodynamics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "CHEM 1315"
+    ]
+  },
+  "ENGR 3950": {
+    "name": "ST:Engineering",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 0003": {
+    "name": "Basic Writing I",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": []
+  },
+  "ENGL 0111": {
+    "name": "Composition I Supplemental",
+    "credit_hours": 1,
+    "difficulty": 1,
+    "prerequisites": []
+  },
+  "ENGL 1001": {
+    "name": "Essay Writing",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ENGL 1113": {
+    "name": "Composition I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ENGL 1213": {
+    "name": "Composition II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "ENGL 1113"
+    ]
+  },
+  "ENGL 2023": {
+    "name": "Creative Writing",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ENGL 1113"
+    ]
+  },
+  "ENGL 2333": {
+    "name": "Technical Writing",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "ENGL 1113"
+    ]
+  },
+  "ENGL 2613": {
+    "name": "Introduction to Literature",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "ENGL 3033": {
+    "name": "Creative Writing for Popular Market",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1213",
+      "ENGL 2023"
+    ]
+  },
+  "ENGL 3113": {
+    "name": "Advanced Technical Writing",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1213"
+    ]
+  },
+  "ENGL 3123": {
+    "name": "Topics in Advanced Composition",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1113",
+      "ENGL 1213"
+    ]
+  },
+  "ENGL 3143": {
+    "name": "Creative Non-Fiction",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1213"
+    ]
+  },
+  "ENGL 3213": {
+    "name": "British Literature",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 3223": {
+    "name": "American Literature",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 3233": {
+    "name": "World Literature",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 3423": {
+    "name": "The Novel",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 3443": {
+    "name": "Studies in Poetry",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1113",
+      "ENGL 1213"
+    ]
+  },
+  "ENGL 3513": {
+    "name": "Literature for Chldrn and Yng Adlts",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ENGL 1213",
+      "ENGL 2613"
+    ]
+  },
+  "ENGL 3950": {
+    "name": "Special Topics in English",
+    "credit_hours": 6,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENGL 4133": {
+    "name": "Fiction Writing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ENGL 2023"
+    ]
+  },
+  "ENGL 4143": {
+    "name": "Poetry Writing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ENGL 2023"
+    ]
+  },
+  "ENGL 4223": {
+    "name": "Shakespeare",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ENGL 4453": {
+    "name": "Literary Traditions",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ENGL 4710": {
+    "name": "Directed Studies",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ENTR 3003": {
+    "name": "Social Entrepreneurship",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENTR 3103": {
+    "name": "Fund Raising, Events, & Major Gifts",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ENTR 3233": {
+    "name": "Marketing for the Entrepreneur",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "ENTR 3303": {
+    "name": "Entrepreneurial Finance",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "FINA 3503"
+    ]
+  },
+  "ENTR 4013": {
+    "name": "New Venture Development",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "ENTR 4323": {
+    "name": "Managing the Growing Business",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "ESPT 1113": {
+    "name": "Introduction to Esports",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "ESPT 3503": {
+    "name": "ESports Business Models",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "FINA 3213": {
+    "name": "Money, Financl Mrkts, & Instns",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ECON 2123",
+      "ECON 2113"
+    ]
+  },
+  "FINA 3303": {
+    "name": "Entrepreneurial Finance",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "FINA 3503"
+    ]
+  },
+  "FINA 3313": {
+    "name": "Principles of Real Estate",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "FINA 3503": {
+    "name": "Principles of Finance",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2203"
+    ]
+  },
+  "FINA 3623": {
+    "name": "Fundamentals of Investments",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "FINA 4113": {
+    "name": "Managerial Finance",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FINA 3503"
+    ]
+  },
+  "FINA 4133": {
+    "name": "Accounting and Financial Analytics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "ACCT 3113",
+        "ACCT 3133"
+      ]
+    ]
+  },
+  "FINA 4213": {
+    "name": "Financial Statement Analysis",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FINA 3503"
+    ]
+  },
+  "FINA 5133": {
+    "name": "Financial Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "FTMT 2723": {
+    "name": "Care & Prevention of Athlete Injury",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "FTMT 3553": {
+    "name": "Advanced Care Prev Ath Injuries",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "FTMT 2723"
+    ]
+  },
+  "FTMT 3733": {
+    "name": "Physiology of Exercise",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "FTMT 3813": {
+    "name": "Biomechanics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 2204"
+    ]
+  },
+  "FTMT 4213": {
+    "name": "Method of Strength and Conditioning",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FTMT 3733"
+    ]
+  },
+  "FTMT 4523": {
+    "name": "Exercise Testing and Prescription",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FTMT 3733"
+    ]
+  },
+  "FTMT 4813": {
+    "name": "Advanced Strength and Conditioning",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "FTMT 4213"
+    ]
+  },
+  "BGS 3003": {
+    "name": "Junior Seminar",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "BGS 4003": {
+    "name": "Senior Seminar Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BGS 3003"
+    ]
+  },
+  "GEOG 1113": {
+    "name": "General Geography",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "GEOG 2123": {
+    "name": "World Regional Geography",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "GEOG 2243": {
+    "name": "Human Geography",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "GEOG 2313": {
+    "name": "Introduction to Geospatial Technology",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "GEOG 3023": {
+    "name": "Economic Geography",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "GEOG 3043": {
+    "name": "Environmental Geography",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "GEOG 3053": {
+    "name": "Military Geography",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "GEOG 2243"
+    ]
+  },
+  "GEOG 3113": {
+    "name": "Geography of Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "GEOG 2243"
+    ]
+  },
+  "GEOG 3950": {
+    "name": "ST:Human Geography",
+    "credit_hours": 0,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "GEOG 2123",
+        "GEOG 2243"
+      ]
+    ]
+  },
+  "GEOG 4023": {
+    "name": "Political Geography",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "GEOL 1014": {
+    "name": "Earth Science",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "GEOL 1114": {
+    "name": "Physical Geology",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "GEOL 1124": {
+    "name": "Physical Geography",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "GEOL 1224": {
+    "name": "Historical Geology",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "GEOL 1014",
+        "GEOL 1114"
+      ]
+    ]
+  },
+  "GEOL 2124": {
+    "name": "Astronomy",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "GEOL 3013": {
+    "name": "Environmental Geology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "GEOL 1014",
+        "GEOL 1114",
+        "CHEM 1315"
+      ]
+    ]
+  },
+  "GEOL 3950": {
+    "name": "Special Topics in Geology",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "GERM 1113": {
+    "name": "Beginning German I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "GERM 1223": {
+    "name": "Beginning German II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "GERM 1113"
+    ]
+  },
+  "HPER 1031": {
+    "name": "Phys Ed Activity",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HPER 1032": {
+    "name": "Physical Education Activity",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HPER 1581": {
+    "name": "Defensive Techniques",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HLSC 1051": {
+    "name": "Blood Borne Pathogens",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HLSC 1233": {
+    "name": "Medical Terminology",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HLSC 1813": {
+    "name": "First Aid",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HLSC 2183": {
+    "name": "Athletic Injuries",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HLSC 3003": {
+    "name": "Public Health",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HLSC 4423": {
+    "name": "Field Experience",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HLSC 5113": {
+    "name": "Strategic Management in Health Care",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HLSC 5223": {
+    "name": "Finance in Health Care",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HLSC 5333": {
+    "name": "Legal & Ethical Aspects of Hlth Cre",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HIST 2013": {
+    "name": "World Civilization I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2023": {
+    "name": "World Civilization II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2113": {
+    "name": "Western Civilization I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2223": {
+    "name": "Western Civilization II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2463": {
+    "name": "Seminar- Civil War I - Daily Life I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2473": {
+    "name": "Seminar-Civil War - Daily Life II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2483": {
+    "name": "American History to 1877",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 2493": {
+    "name": "American History since 1877",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HIST 3013": {
+    "name": "Modern Europe",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3023": {
+    "name": "The Amrcan Civil War & Reconstructn",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2483"
+    ]
+  },
+  "HIST 3033": {
+    "name": "Modern East Asia",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3043": {
+    "name": "Colonial America, 1492-1763",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2483"
+    ]
+  },
+  "HIST 3053": {
+    "name": "Famous Trials in American History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3063": {
+    "name": "Oklahoma History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3123": {
+    "name": "Introduction to Military History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "HIST 2483",
+        "HIST 2493"
+      ]
+    ]
+  },
+  "HIST 3153": {
+    "name": "Intro to American Political Thought",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 2123"
+    ]
+  },
+  "HIST 3213": {
+    "name": "Environmental History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3223": {
+    "name": "Interpreting History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3243": {
+    "name": "Writing and Research for Historians",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "HIST 2483",
+        "HIST 2493"
+      ]
+    ]
+  },
+  "HIST 3323": {
+    "name": "War and Society",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3343": {
+    "name": "World War II, European",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3353": {
+    "name": "World War II: The Pacific Theatre",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3413": {
+    "name": "The Early Republic, 1786-1854",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2483"
+    ]
+  },
+  "HIST 3423": {
+    "name": "The Gilded Age and Progressive Era",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2493"
+    ]
+  },
+  "HIST 3433": {
+    "name": "America and The World, 1917-1945",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2493"
+    ]
+  },
+  "HIST 3463": {
+    "name": "History of the American West",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3533": {
+    "name": "The Vietnam Conflict",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 2493"
+    ]
+  },
+  "HIST 3613": {
+    "name": "War, Ethics, & Religion",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3653": {
+    "name": "War and Technology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HIST 3123"
+    ]
+  },
+  "HIST 3950": {
+    "name": "Special Topics in Military History",
+    "credit_hours": 0,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 3993": {
+    "name": "Special Topics in History",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HIST 4013": {
+    "name": "Nazi Germany",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HIST 4033": {
+    "name": "Cult Warfare: Maj Controv in US His",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HIST 4123": {
+    "name": "Revolutionary America, 1763-1783",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 2483"
+    ]
+  },
+  "HIST 4213": {
+    "name": "Will Rogers\u2019 America",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 2483"
+    ]
+  },
+  "HIST 4243": {
+    "name": "20th Century Insurgencies",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HIST 4313": {
+    "name": "Readings in Military Lead/Strategy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 3123"
+    ]
+  },
+  "HIST 4333": {
+    "name": "The Cold War",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 2493"
+    ]
+  },
+  "HIST 4413": {
+    "name": "The Enlightenment",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HIST 4433": {
+    "name": "U.S. Conflicts after the Cold War",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 2493"
+    ]
+  },
+  "HIST 4511": {
+    "name": "Military History Senior Capstone",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": [
+      "HIST 3123",
+      "HIST 3613",
+      "HIST 3653",
+      "HIST 3323",
+      "SOC 3323",
+      "HIST 4313"
+    ]
+  },
+  "HIST 4513": {
+    "name": "History Senior Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HONS 1113": {
+    "name": "Freshman Honors Seminar",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HONS 1213": {
+    "name": "HON:Literature & Rhetoric I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HONS 1313": {
+    "name": "HON:Literature & Rhetoric II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "HONS 1213"
+    ]
+  },
+  "HONS 2113": {
+    "name": "Sophomore Honors Seminar",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "HONS 1113"
+    ]
+  },
+  "HONS 3113": {
+    "name": "Junior Honors Seminar",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "HONS 2113"
+    ]
+  },
+  "HONS 3123": {
+    "name": "Special Topics In Honors",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HONS 3133": {
+    "name": "Honors Study-At-Large",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HONS 4113": {
+    "name": "Senior Honors Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HONS 3113"
+    ]
+  },
+  "HUM 1113": {
+    "name": "Art Appreciation",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "HUM 2113": {
+    "name": "Humanities I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HUM 2223": {
+    "name": "Humanities II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HUM 2413": {
+    "name": "Theatre Appreciation",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HUM 2573": {
+    "name": "Music Appreciation",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HUM 2893": {
+    "name": "Cinema",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "HUM 3113": {
+    "name": "Studies in African-American Culture",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3213": {
+    "name": "Studies in Latin American Culture",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3323": {
+    "name": "Gods and Heroes",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3423": {
+    "name": "Biblical Literature and Art",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3443": {
+    "name": "Theatre Traditions",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3543": {
+    "name": "Adaptation: Literature and Film",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3633": {
+    "name": "Comparative Religion",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3713": {
+    "name": "Sex, Love and Friendship",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3733": {
+    "name": "Death, Plague and War",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3833": {
+    "name": "Studies at Large:The Americas",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 3950": {
+    "name": "Special Topics in Humanities",
+    "credit_hours": 6,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "HUM 4003": {
+    "name": "Multi-Media Communications",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HUM 4013": {
+    "name": "Capstone Project/Portfolio I",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HUM 4113": {
+    "name": "International Cinema",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HUM 2893"
+    ]
+  },
+  "HUM 4213": {
+    "name": "Will Rogers\u2019 America",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HUM 4413": {
+    "name": "Women in Literary and Visual Arts",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "HUM 2113",
+      "HUM 2223",
+      "ENGL 1213"
+    ]
+  },
+  "HUM 4833": {
+    "name": "Studies at Large:International",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "HUM 4993": {
+    "name": "Humanities Seminar",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUT 5113": {
+    "name": "Security Policies and Training Plans",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUT 5223": {
+    "name": "Managing Risk and Training in Information Systems",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "EDUT 5333": {
+    "name": "Legal, Privacy, & Training Issues in Information Security",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 1411": {
+    "name": "Orientation to Computer Technology",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "IT 2143": {
+    "name": "Introduction to Networking",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "IT 2153": {
+    "name": "Network Operating Systems I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "IT 2143"
+    ]
+  },
+  "IT 2163": {
+    "name": "Intro to Computer Forensics & Invst",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "IT 2500": {
+    "name": "Cooperative Ed in Information Tech",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "IT 3113": {
+    "name": "Integrated Applications",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "CS 1113",
+        "CS 2323"
+      ]
+    ]
+  },
+  "IT 3153": {
+    "name": "Network Operating Systems II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "IT 2153"
+    ]
+  },
+  "IT 3333": {
+    "name": "Cybersecurity Investigations",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "IT 3500": {
+    "name": "Cooperative Ed in Information Tech",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "IT 3723": {
+    "name": "Computer Architecture",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "CS 2323"
+    ]
+  },
+  "IT 3753": {
+    "name": "Network Security",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "IT 3153"
+    ]
+  },
+  "IT 4113": {
+    "name": "Network Routing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "IT 3153"
+    ]
+  },
+  "IT 4353": {
+    "name": "Info Assurance and Security Mgmt",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 4373": {
+    "name": "Info Assurance Regulations & Ethics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "IT 4353"
+    ]
+  },
+  "IT 4443": {
+    "name": "Fund of Information/Cybersecurity",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 4500": {
+    "name": "Cooperative Ed in Information Tech",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 4504": {
+    "name": "IT Capstone and Practicum",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 5012": {
+    "name": "Access Control and Identity Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 5023": {
+    "name": "Information Security Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "IT 5033": {
+    "name": "Cyberwarfare: Operations and Organizational Security",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "LANG 1113": {
+    "name": "Foundations of World Languages",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "LSCI 1011": {
+    "name": "Use of Books and Libraries",
+    "credit_hours": 1,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MGMT 3013": {
+    "name": "Principles of Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MGMT 3033": {
+    "name": "Conflict Resltn:I\u2019m Always Right!",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MGMT 3233": {
+    "name": "Human Resources Development",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3313"
+    ]
+  },
+  "MGMT 3303": {
+    "name": "Organizational Behavior",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "MGMT 3313": {
+    "name": "Human Resources Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013",
+      "MGMT 3303"
+    ]
+  },
+  "MGMT 3323": {
+    "name": "Compensation and Benefits",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3313"
+    ]
+  },
+  "MGMT 3333": {
+    "name": "Employment and Labor",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3313"
+    ]
+  },
+  "MGMT 3353": {
+    "name": "Organizational Theory",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MGMT 3413": {
+    "name": "Production/Operations Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BADM 2843"
+    ]
+  },
+  "MGMT 3423": {
+    "name": "Management Information Systems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013",
+      "CS 1113"
+    ]
+  },
+  "MGMT 4033": {
+    "name": "Entrepreneurship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 2103",
+      "ACCT 2203",
+      "ECON 2123",
+      "BADM 3113",
+      "MGMT 3013"
+    ]
+  },
+  "MGMT 4333": {
+    "name": "Selection and Evaluation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3313"
+    ]
+  },
+  "MGMT 4413": {
+    "name": "Quantitative Methods",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ACCT 2103",
+      "ACCT 2203",
+      "ECON 2123",
+      "BADM 2843",
+      "BADM 3113"
+    ]
+  },
+  "MGMT 4813": {
+    "name": "Strategies and Policies",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BADM 3323",
+      "BADM 3333",
+      "FINA 3503",
+      "MGMT 3413",
+      "MGMT 3423",
+      "MGMT 4033",
+      "MKTG 3113"
+    ]
+  },
+  "MGMT 5133": {
+    "name": "Organizational Behavior and Design",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5143": {
+    "name": "Supply Chain Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5213": {
+    "name": "Strategic Human Resource Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5223": {
+    "name": "Production/Operations Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5233": {
+    "name": "Entrepreneurship/New Venture Initia",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5243": {
+    "name": "Enterprise Resource Mgmt Systems",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MGMT 5313": {
+    "name": "Business Strategy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MFMG 4023": {
+    "name": "Seminar in Manufacturing Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "SCMT 4033",
+      "SCMT 3213",
+      "TECH 3213"
+    ]
+  },
+  "MFMG 4033": {
+    "name": "Manufacturing Strategy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3413"
+    ]
+  },
+  "MKTG 3113": {
+    "name": "Principles of Marketing",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MKTG 3313": {
+    "name": "E-Marketing",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "MKTG 3323": {
+    "name": "Consumer Behavior",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "MKTG 3453": {
+    "name": "Sales and Sales Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "MKTG 4153": {
+    "name": "Integrated Marketing Communications",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "MKTG 4333": {
+    "name": "Marketing Research",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BADM 2843",
+      "MKTG 3113"
+    ]
+  },
+  "MKTG 4343": {
+    "name": "Marketing Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MKTG 3313",
+      "MKTG 3323",
+      "MKTG 4333"
+    ]
+  },
+  "MKTG 5143": {
+    "name": "Strategic Global Marketing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MATH 0013": {
+    "name": "Basic Math",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": []
+  },
+  "MATH 0113": {
+    "name": "Elementary Algebra",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0013"
+    ]
+  },
+  "MATH 0114": {
+    "name": "Elementary Algebra Plus",
+    "credit_hours": 4,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0013"
+    ]
+  },
+  "MATH 0212": {
+    "name": "Statistics Foundations",
+    "credit_hours": 2,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "MATH 0213": {
+    "name": "Intermediate Algebra",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "MATH 0312": {
+    "name": "College Math Foundations",
+    "credit_hours": 2,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "MATH 0322": {
+    "name": "Functions and Modeling Foundations",
+    "credit_hours": 2,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "MATH 0412": {
+    "name": "College Algebra Foundations",
+    "credit_hours": 2,
+    "difficulty": 1,
+    "prerequisites": [
+      "MATH 0114"
+    ]
+  },
+  "MATH 1413": {
+    "name": "Introduction to Statistics",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MATH 1423": {
+    "name": "Functions and Modeling",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MATH 1503": {
+    "name": "Mathematics for Critical Thinking",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MATH 1513": {
+    "name": "College Algebra",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MATH 1613": {
+    "name": "Trigonometry",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "MATH 1715": {
+    "name": "Pre-Calculus",
+    "credit_hours": 5,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MATH 1743": {
+    "name": "Calculus I for Business",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "MATH 1513"
+    ]
+  },
+  "MATH 2100": {
+    "name": "Seminar in Mathematics",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "MATH 2213": {
+    "name": "Mathematical Structures I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 0213"
+    ]
+  },
+  "MATH 2264": {
+    "name": "Analytical Geometry and Calculus I",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 1613"
+    ]
+  },
+  "MATH 2364": {
+    "name": "Analytical Geometry and Calculus II",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 2264"
+    ]
+  },
+  "MATH 2464": {
+    "name": "Analytical Geometry & Calculus III",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 2364"
+    ]
+  },
+  "MATH 2843": {
+    "name": "Statistics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "MATH 3113": {
+    "name": "Differential Equations",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 2464"
+    ]
+  },
+  "MATH 3413": {
+    "name": "Mathematical Structures II",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "MATH 1503",
+        "MATH 1513",
+        "MATH 2213"
+      ]
+    ]
+  },
+  "MATH 3433": {
+    "name": "Discrete Mathematics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 2264",
+      "CS 2223"
+    ]
+  },
+  "MATH 3523": {
+    "name": "Linear Algebra",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MATH 2264"
+    ]
+  },
+  "MATH 3950": {
+    "name": "ST:Mathematics",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MS 1030": {
+    "name": "Military Science Leadership Lab",
+    "credit_hours": 0,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MS 1213": {
+    "name": "Small Group Leadership and Dynamics",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MS 1223": {
+    "name": "Intro to the Military Profession",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MS 2113": {
+    "name": "Foundations of Leadership",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "MS 2123": {
+    "name": "Leadership and Decision Making",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "MS 3113": {
+    "name": "Military Leadership and Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MS 3213": {
+    "name": "Military Tactics and Operation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MS 3950": {
+    "name": "ST:Military Science",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "MS 4113": {
+    "name": "Application of Tactical Leadership",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MS 4123": {
+    "name": "Applied Leadership in Small Unit Op",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "MUSC 1013": {
+    "name": "Fundamentals of Music",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "MUSC 2573": {
+    "name": "Music Appreciation",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 1123": {
+    "name": "Native American Spirituality I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "NAMS 1143": {
+    "name": "Native Americans of North America",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "NAMS 2123": {
+    "name": "Native American Spirituality II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2203": {
+    "name": "Native American of United States",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2233": {
+    "name": "Native Americans of Oklahoma",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2403": {
+    "name": "Field Research in Nat Amer Culture",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2423": {
+    "name": "Indigenous Lang of Native Americans",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2503": {
+    "name": "Cherokee I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2583": {
+    "name": "Seminar in Native American Language",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2623": {
+    "name": "Cherokee II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 2850": {
+    "name": "Native American Seminar",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NAMS 3113": {
+    "name": "Contemporary Native American Issues",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NAMS 3263": {
+    "name": "Native American Law",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NAMS 4123": {
+    "name": "Native American Literature",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NAMS 4413": {
+    "name": "Native American Art",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 2112": {
+    "name": "Introduction to Nursing",
+    "credit_hours": 2,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "NURS 3111": {
+    "name": "Dosage Calc & Medication Safety",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NURS 3113": {
+    "name": "Pharmacology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NURS 3125": {
+    "name": "Fundamentals of Nursing",
+    "credit_hours": 5,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NURS 3134": {
+    "name": "Health Assessment and Promotion",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NURS 3216": {
+    "name": "Medical-Surgical Nursing I",
+    "credit_hours": 6,
+    "difficulty": 4,
+    "prerequisites": [
+      "NURS 3113",
+      "NURS 3125",
+      "NURS 3134"
+    ]
+  },
+  "NURS 3234": {
+    "name": "Mental Health Nursing",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": [
+      "NURS 3113",
+      "NURS 3125",
+      "NURS 3134"
+    ]
+  },
+  "NURS 3243": {
+    "name": "Contemporary Nursing Practice",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "NURS 3113",
+      "NURS 3125",
+      "NURS 3134"
+    ]
+  },
+  "NURS 3323": {
+    "name": "Pathophysiology for the Health Prof",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "BIOL 2215",
+        "BIOL 2204"
+      ]
+    ]
+  },
+  "NURS 3513": {
+    "name": "RN:Contemporary Nursing Practice",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NURS 3533": {
+    "name": "RN:Pathophysiology for the Hlth Prf",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "BIOL 3204"
+    ]
+  },
+  "NURS 4003": {
+    "name": "RN:Professional Nursing Role",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 4013": {
+    "name": "RN:Health Assessment/Promotion",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 4113": {
+    "name": "RN:Rural Nursing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 4114": {
+    "name": "RN:Family, Comm & PubHlth Nursing",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 4213": {
+    "name": "RN:Nursing Science and Research",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 4214": {
+    "name": "RN:Mgmt & Leadership in Nursing",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 4003"
+    ]
+  },
+  "NURS 4223": {
+    "name": "RN:Professional Nursng Practice Sem",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 4003"
+    ]
+  },
+  "NURS 4315": {
+    "name": "Medical-Surgical Nursing II",
+    "credit_hours": 5,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 3216"
+    ]
+  },
+  "NURS 4324": {
+    "name": "Nurse\u2019s Role-Prvding Commnity Suppt",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 3216"
+    ]
+  },
+  "NURS 4336": {
+    "name": "Nursing Care of Chld/Bearing Famly",
+    "credit_hours": 6,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 3216"
+    ]
+  },
+  "NURS 4414": {
+    "name": "Management and Leadership in Nursin",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 4315"
+    ]
+  },
+  "NURS 4424": {
+    "name": "Nursing Care of the Critically Ill",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 4315"
+    ]
+  },
+  "NURS 4433": {
+    "name": "Nursing Sci and Evidnce-Based Pract",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 3216"
+    ]
+  },
+  "NURS 4443": {
+    "name": "Professional Roles in Nursing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "NURS 3216"
+    ]
+  },
+  "NURS 5113": {
+    "name": "Advanced Roles, Responsibilities, and Influence in Nursing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5123": {
+    "name": "Advanced Research and Evidence-Based Practice",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5223": {
+    "name": "Modern Issues in Nursing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5313": {
+    "name": "Assessment and Evaluation in Nursing Education",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5323": {
+    "name": "Curriculum Development and Instructional Design",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5333": {
+    "name": "Teaching Strategies in Nursing Education",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5353": {
+    "name": "Advanced Instruction in Pathophysiology, Pharmacology and Health Assessment",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5363": {
+    "name": "Accreditation and Program Evaluation in Nursing Education",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5413": {
+    "name": "Advanced Leadership and Management Skills for Nurses",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5423": {
+    "name": "Healthcare Human Resource Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5463": {
+    "name": "Regulatory Compliance for the Nurse Manager",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5522": {
+    "name": "Nursing Practicum",
+    "credit_hours": 2,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5532": {
+    "name": "Nursing Practicum II",
+    "credit_hours": 2,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NURS 5553": {
+    "name": "Nursing Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "NUTR 1113": {
+    "name": "Introduction to Nutrition",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "NUTR 3011": {
+    "name": "Geriatric Nutrition",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3021": {
+    "name": "Nutrition Aspects-Comm Health Nurse",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3031": {
+    "name": "Nutrition Assessment",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3041": {
+    "name": "Nutrition Management of Obesity",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3051": {
+    "name": "OB/GYN and Lactation Nutrition",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3061": {
+    "name": "Pediatric Nutrition",
+    "credit_hours": 1,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3303": {
+    "name": "Nutrition for Sport and Fitness",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "NUTR 3523": {
+    "name": "Nutritional Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "NUTR 4233": {
+    "name": "Nutrition In Health & Disease",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "NUTR 1113"
+    ]
+  },
+  "ORGL 3113": {
+    "name": "Fnd of Org Leadership/Personal Dev",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ORGL 3223": {
+    "name": "Professional Communication",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ORGL 3333": {
+    "name": "Data Analysis and Interpretation",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ORGL 3443": {
+    "name": "Survey of Fiscal Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "ORGL 4113": {
+    "name": "Ethics and Organizations",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4213": {
+    "name": "Organizational Culture & Leadership",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4223": {
+    "name": "Individual, Organization & Society",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4313": {
+    "name": "Global Leadership & Diversity",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4333": {
+    "name": "Leading and Managing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4443": {
+    "name": "Markets and Stakeholders",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4553": {
+    "name": "Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "ORGL 4993": {
+    "name": "Professional Internship",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "ORGL 4553"
+    ]
+  },
+  "PHIL 1113": {
+    "name": "Introduction to Philosophy",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PHIL 1313": {
+    "name": "Values and Ethics",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PHIL 2123": {
+    "name": "Logic",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "PHIL 3213": {
+    "name": "Philosophy of Law",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "PHIL 3313": {
+    "name": "Ancient Philosophy",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "PHIL 3343": {
+    "name": "Advanced Ethics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "PHIL 1113",
+        "PHIL 1313"
+      ]
+    ]
+  },
+  "PHIL 3413": {
+    "name": "Medieval and Renaissance Philosophy",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "PHIL 3950": {
+    "name": "Special Topics In Philosophy",
+    "credit_hours": 6,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "PHYS 1014": {
+    "name": "General Physical Science",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PHYS 1114": {
+    "name": "General Physics",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "MATH 1613",
+        "MATH 1715"
+      ]
+    ]
+  },
+  "PHYS 1214": {
+    "name": "General Physics II",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": [
+      "MATH 1513",
+      "MATH 1613",
+      "PHYS 1114"
+    ]
+  },
+  "PHYS 2015": {
+    "name": "Engineering Physics I",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": [
+      "MATH 2264"
+    ]
+  },
+  "PHYS 2115": {
+    "name": "Engineering Physics II",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": [
+      "PHYS 2015"
+    ]
+  },
+  "PHYS 3113": {
+    "name": "Physics for Gaming",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PHYS 1114"
+    ]
+  },
+  "PHYS 3950": {
+    "name": "ST:Physics",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 1113": {
+    "name": "American Federal Government",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "POLS 2003": {
+    "name": "Politics Matters",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "POLS 2033": {
+    "name": "American Legal System",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "POLS 2043": {
+    "name": "Intro to Comparative Politics",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 2123": {
+    "name": "Introduction to Political Ideas",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "POLS 2253": {
+    "name": "Political Practicum",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "POLS 3003": {
+    "name": "Political Science Methodology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 3013": {
+    "name": "State and Local Government",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3023": {
+    "name": "Intro to Public Administration",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3033": {
+    "name": "Introduction to Public Policy",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3053": {
+    "name": "International Relations",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 3063": {
+    "name": "Constitutional Law",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3083": {
+    "name": "Intelligence, Politics & Public Pol",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3123": {
+    "name": "Political Terrorism and Violence",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3143": {
+    "name": "Introduction to Political Theory",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3153": {
+    "name": "Intro to American Political Thought",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 2123"
+    ]
+  },
+  "POLS 3163": {
+    "name": "The American Presidency",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3173": {
+    "name": "The American Congress",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 3213": {
+    "name": "Bureaucratic Politics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3243": {
+    "name": "Ethics in Public Service",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3273": {
+    "name": "Intergovernmental Relations",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 3323": {
+    "name": "Women and Politics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 3553": {
+    "name": "Public Finance and Personnel Mgmt",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "POLS 3950": {
+    "name": "Topics in Politics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4013": {
+    "name": "Campaigns, Elections, and Voting",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4023": {
+    "name": "Democracy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4033": {
+    "name": "American Foreign Policy",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4043": {
+    "name": "The Media and Politics",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4063": {
+    "name": "Constitutional Law 2: Civ Right Lib",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4103": {
+    "name": "National Security Strategies",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4213": {
+    "name": "Environmental Policy & Regulation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "POLS 4323": {
+    "name": "Administrative Law and Regulation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4513": {
+    "name": "Grant Writing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4533": {
+    "name": "Municipal Government",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4623": {
+    "name": "Nonprofit Administration",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4643": {
+    "name": "Public Budgeting & Personnel Admin",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4991": {
+    "name": "Exit Examination",
+    "credit_hours": 1,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "POLS 4993": {
+    "name": "Policy & Program Evaluation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "POLS 1113"
+    ]
+  },
+  "PTEC 1003": {
+    "name": "Introduction to Process Technology",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PTEC 1214": {
+    "name": "Instrumentation",
+    "credit_hours": 4,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PTEC 1513": {
+    "name": "Internship in PTEC",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PTEC 2013": {
+    "name": "Safety, Health and Environment",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "PTEC 2023": {
+    "name": "Quality",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "PTEC 2124": {
+    "name": "Process Technology I: Equipment",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "PTEC 2134": {
+    "name": "Process Technology II: Systems",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "PTEC 1003",
+      "PTEC 1214",
+      "PTEC 2124"
+    ]
+  },
+  "PTEC 2224": {
+    "name": "Process Technology III: Operations",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": [
+      "PTEC 1003",
+      "PTEC 1214",
+      "PTEC 2124"
+    ]
+  },
+  "PSY 1113": {
+    "name": "Introduction to Psychology",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "PSY 2413": {
+    "name": "Psychology of Adolescence",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3003": {
+    "name": "Human Sexuality",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3013": {
+    "name": "Abnormal Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3033": {
+    "name": "Developmental Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3043": {
+    "name": "Child Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3053": {
+    "name": "History and Systems of Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3063": {
+    "name": "Clinical Neuroscience",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3213": {
+    "name": "Aging and End of Life Transitions",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3223": {
+    "name": "Learning",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3243": {
+    "name": "Cognitive Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3323": {
+    "name": "Movement & Learning",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3353": {
+    "name": "Psychology of Personality",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3423": {
+    "name": "Social Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "PSY 1113",
+        "SOC 1113"
+      ]
+    ]
+  },
+  "PSY 3513": {
+    "name": "Sports Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "PSY 3533": {
+    "name": "Psychology of Well-being",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 3993": {
+    "name": "Current Topics in Psychology I",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "PSY 4003": {
+    "name": "Educational Psychology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "PSY 1113",
+      "PSY 3033"
+    ]
+  },
+  "PSY 4013": {
+    "name": "Clinical Psychology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "PSY 1113"
+    ]
+  },
+  "READ 0223": {
+    "name": "Developmental Reading I",
+    "credit_hours": 3,
+    "difficulty": 1,
+    "prerequisites": []
+  },
+  "SBS 3013": {
+    "name": "Research Methods I:Research Designs",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SBS 3023": {
+    "name": "Rsrch Methods II: Analysis",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SBS 3043": {
+    "name": "Field Placement",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SBS 3053": {
+    "name": "Social Systems and Problems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SBS 3063": {
+    "name": "Social and Behavioral Statistics",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "MATH 1503",
+        "MATH 1513"
+      ]
+    ]
+  },
+  "SBS 3113": {
+    "name": "Qualitative Research Methods",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SBS 3013"
+    ]
+  },
+  "SBS 3213": {
+    "name": "Quantitative Research Methods",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SBS 3013"
+    ]
+  },
+  "SBS 4033": {
+    "name": "Internship I",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SBS 4043": {
+    "name": "Internship II",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SBS 4513": {
+    "name": "Senior Seminar: Capstone Experience",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "SBS 3113",
+        "SBS 3213"
+      ]
+    ]
+  },
+  "SOC 1113": {
+    "name": "Introduction to Sociology",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "SOC 2083": {
+    "name": "Current Topics in Sociology",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SOC 2123": {
+    "name": "Social Problems",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SOC 2133": {
+    "name": "Drug Abuse",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SOC 2213": {
+    "name": "Environmental Sociology",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SOC 2353": {
+    "name": "General Anthropology",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SOC 1113"
+    ]
+  },
+  "SOC 2363": {
+    "name": "Cultural Anthropology",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SOC 3023": {
+    "name": "Juvenile Delinquency",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3033": {
+    "name": "Marriage and the Family",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3053": {
+    "name": "Cultural Ecology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3073": {
+    "name": "Criminology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3213": {
+    "name": "Minority Groups",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3223": {
+    "name": "Social Deviance",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3323": {
+    "name": "War and Society",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3333": {
+    "name": "Demography",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3413": {
+    "name": "Food and Society",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3423": {
+    "name": "Social Psychology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [],
+    "prerequisites_any": [
+      [
+        "PSY 1113",
+        "SOC 1113"
+      ]
+    ]
+  },
+  "SOC 3443": {
+    "name": "Sociology of Gender",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3463": {
+    "name": "Social Inequality",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3513": {
+    "name": "Games and Culture",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3553": {
+    "name": "Environment and Sustainability",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SOC 3950": {
+    "name": "Special Topics in Sociology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SOC 1113"
+    ]
+  },
+  "SOC 4013": {
+    "name": "Sociological Theory",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4023": {
+    "name": "Medical Sociology",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4113": {
+    "name": "Social Movements",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4213": {
+    "name": "Environmental Policy & Regulation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4223": {
+    "name": "Business and Society",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4253": {
+    "name": "Cultural and Environmental Fld Work",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4313": {
+    "name": "Global Leadership & Diversity",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4323": {
+    "name": "Climate Change and Mitigation",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SOC 4503": {
+    "name": "Environmental Internship & Capstone",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPAN 1113": {
+    "name": "Beginning Spanish I",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "SPAN 1223": {
+    "name": "Beginning Spanish II",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": [
+      "SPAN 1113"
+    ]
+  },
+  "SPAN 2113": {
+    "name": "Intermediate Spanish I",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SPAN 1223"
+    ]
+  },
+  "SPAN 2223": {
+    "name": "Intermediate Spanish II",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SPAN 2113"
+    ]
+  },
+  "SPAN 3123": {
+    "name": "Adv Conversation and Grammar",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPAN 2223"
+    ]
+  },
+  "SPAN 3223": {
+    "name": "Advanced Composition and Grammar",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPAN 2223"
+    ]
+  },
+  "SPAN 4123": {
+    "name": "Advanced Spanish Grammar",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "SPAN 2223"
+    ]
+  },
+  "SP 2900": {
+    "name": "Directed Study",
+    "credit_hours": 2,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SP 2950": {
+    "name": "Special Topics",
+    "credit_hours": 4,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "SP 3800": {
+    "name": "Internship",
+    "credit_hours": 12,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SP 3900": {
+    "name": "Independent Study",
+    "credit_hours": 2,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SP 3950": {
+    "name": "Advanced Topics",
+    "credit_hours": 4,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SPCH 1113": {
+    "name": "Speech Communication",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "SPMT 1003": {
+    "name": "Foundation of Sport Management",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "SPMT 2023": {
+    "name": "Sport Delivery Systems & Communicat",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 3013": {
+    "name": "Marketing Sports",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 3113": {
+    "name": "Sport Sales Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 3213": {
+    "name": "Legal Aspects of Sport Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 3233": {
+    "name": "Organiz & Mgmt of Athletic Programs",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 3423": {
+    "name": "Ethics in Sport Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SPMT 3503": {
+    "name": "Esports Business Models",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "SPMT 4113": {
+    "name": "Sport Economics and Financing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "SPMT 1003"
+    ]
+  },
+  "SPMT 4116": {
+    "name": "Sporting Event Management",
+    "credit_hours": 6,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 4313": {
+    "name": "Leadership in Sport Organizations",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 4323": {
+    "name": "Seminar in Sport Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 4426": {
+    "name": "Sport Management Internship",
+    "credit_hours": 6,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 5223": {
+    "name": "Sport Finance",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 5523": {
+    "name": "Sport Marketing",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SPMT 5543": {
+    "name": "Communication in Sport",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "SCMT 3003": {
+    "name": "Supply Chain Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MKTG 3113"
+    ]
+  },
+  "SCMT 3023": {
+    "name": "Logistics Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3413"
+    ]
+  },
+  "SCMT 3033": {
+    "name": "Negotiations & Procurement",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "SCMT 3213": {
+    "name": "Enterprise Resource Mngmt Systems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "SCMT 4013": {
+    "name": "Quality Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3413"
+    ]
+  },
+  "SCMT 4033": {
+    "name": "Project Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "BADM 2843"
+    ]
+  },
+  "IT 5013": {
+    "name": "Access Control and Identity Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "TECH 1002": {
+    "name": "Introduction to Applied Technology",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "TECH 1012": {
+    "name": "Safety",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "TECH 1022": {
+    "name": "Equipment/Tool Operation & Mgmt",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "TECH 1030": {
+    "name": "Beginning Applications",
+    "credit_hours": 5,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "TECH 1050": {
+    "name": "Intermediate Applications",
+    "credit_hours": 5,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "TECH 2020": {
+    "name": "Advanced Applications",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "TECH 2040": {
+    "name": "Special Topics",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "TECH 2060": {
+    "name": "Special Projects",
+    "credit_hours": 5,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "TECH 2083": {
+    "name": "Job Readiness",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "TECH 2090": {
+    "name": "Field Internship",
+    "credit_hours": 6,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "TECH 3013": {
+    "name": "Leadership & Decision-Making Skills",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "TECH 3023": {
+    "name": "Emerging Technologies",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "TECH 3203": {
+    "name": "Introduction to Risk Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": []
+  },
+  "TECH 3213": {
+    "name": "Enterprise Resource Mgmt Systems",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "MGMT 3013"
+    ]
+  },
+  "TECH 3403": {
+    "name": "Renewable Energy Technology",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "PHYS 1014"
+    ]
+  },
+  "TECH 3413": {
+    "name": "Accntng for the Rnwble Enrgy Indust",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "ACCT 2103"
+    ]
+  },
+  "TECH 3423": {
+    "name": "Fundamentals of Energy Management",
+    "credit_hours": 3,
+    "difficulty": 4,
+    "prerequisites": [
+      "TECH 3403"
+    ]
+  },
+  "TECH 4003": {
+    "name": "Business Data Communications System",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "MGMT 3423"
+    ]
+  },
+  "TECH 4013": {
+    "name": "Computers & Telecom Apps for Mgrs",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "TECH 4003"
+    ]
+  },
+  "TECH 4113": {
+    "name": "Government Regulation of Business",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "TECH 4504": {
+    "name": "Practicum and Capstone Experience",
+    "credit_hours": 4,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "TECH 5443": {
+    "name": "Data and Information Management",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": []
+  },
+  "TECH 5533": {
+    "name": "Artificial Intelligence for Busines",
+    "credit_hours": 3,
+    "difficulty": 5,
+    "prerequisites": [
+      "TECH 5443"
+    ]
+  },
+  "UNIV 1152": {
+    "name": "The University Experience",
+    "credit_hours": 2,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "WGS 2213": {
+    "name": "Introduction to Women\u2019s and Gender Studies",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  },
+  "INT 1113": {
+    "name": "Introduction to U.S. Intelligence",
+    "credit_hours": 3,
+    "difficulty": 2,
+    "prerequisites": []
+  },
+  "INT 2113": {
+    "name": "Critical Thinking, Data Literacy, and Communication Skills",
+    "credit_hours": 3,
+    "difficulty": 3,
+    "prerequisites": []
+  }
+}

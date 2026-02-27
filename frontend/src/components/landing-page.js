@@ -7,6 +7,11 @@ Needed:
 Signup and Login Buttons
 Displayed Logo 
 Clean footer and header
+
+
+
+pick your year
+check box class selection system following picking year
 */
 
 import React, { useEffect, useState } from 'react';

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import TrackLogin from './components/login';
-import ChooseDegree from './components/landing-page';
+import RecommendTest from './components/RecommendTest';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -13,7 +13,7 @@ function App() {
 
   return (
     <React.StrictMode>
-      {isLoggedIn ? <ChooseDegree /> : <TrackLogin onLoginSuccess={handleLoginSuccess} />}
+      {isLoggedIn ? <RecommendTest /> : <TrackLogin onLoginSuccess={handleLoginSuccess} />}
     </React.StrictMode>
   );
 }

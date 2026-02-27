@@ -1,12 +1,12 @@
 # EzGrad
 
-A web application that helps students track their degree progress by scraping course requirements from university catalogs and providing an intuitive interface to search and select degree programs.
+A web application that helps students track their degree progress by scraping course requirements from RSU university catalogs and providing an intuitive interface to search and select degree programs.
 
 ## Features
 
 - **Degree Program Search** - Autocomplete search to find your degree program
 - **Course Scraping** - Automatically scrapes course requirements from RSU catalog
-- **User Authentication** - Login and registration system
+- **User Authentication** - Login and registration system with SHA-256 password hashing
 - **REST API** - Flask backend serving degree and course data
 
 ## Project Structure
@@ -14,27 +14,37 @@ A web application that helps students track their degree progress by scraping co
 ```
 EzGrad/
 ├── backend/
+│   ├── __init__.py
 │   ├── api/
+│   │   ├── dependencies.py
 │   │   └── routes/
-│   │       └── courses.py      # Flask API endpoints
+│   │       ├── __init__.py
+│   │       ├── auth.py           # Authentication endpoints
+│   │       └── courses.py        # Course/degree endpoints
+│   ├── app/
+│   │   ├── main.py               # Main application logic
+│   │   └── read_pdf.py           # PDF reading utility
 │   ├── data/
-│   │   └── degree_courses.json # Cached course data
+│   │   └── degree_courses.json   # Cached course data
 │   ├── db/
-│   │   └── userdata.db         # User database
+│   │   └── userdata.db           # User database
 │   ├── services/
-│   │   └── scraper.py          # Web scraping logic
+│   │   ├── cache_courses.py      # Course caching logic
+│   │   └── scrape_courses.py     # Web scraping logic
 │   └── tests/
+│       └── test_user_vulnerabilities.py
 ├── frontend/
+│   ├── package.json
 │   ├── public/
 │   │   └── index.html
 │   └── src/
-│       ├── components/
-│       │   ├── landing-page.js  # Degree selection component
-│       │   ├── landing-page.css
-│       │   ├── login.js         # Login/Register component
-│       │   └── Login.css
 │       ├── index.js
-│       └── index.css
+│       ├── index.css
+│       └── components/
+│           ├── landing-page.js   # Degree selection component
+│           ├── landing-page.css
+│           ├── login.js          # Login/Register component
+│           └── Login.css
 └── README.md
 ```
 
@@ -78,14 +88,16 @@ EzGrad/
 
 ## API Endpoints
 
-| Method | Endpoint       | Description                                             |
-| ------ | -------------- | ------------------------------------------------------- |
-| GET    | `/api/degrees` | Returns list of all degree program names                |
-| GET    | `/api/courses` | Returns all degree programs with their required courses |
+| Method | Endpoint        | Description                                             |
+| ------ | --------------- | ------------------------------------------------------- |
+| GET    | `/api/degrees`  | Returns list of all degree program names                |
+| GET    | `/api/courses`  | Returns all degree programs with their required courses |
+| POST   | `/api/login`    | Authenticates user with username and password           |
+| POST   | `/api/register` | Registers a new user account                            |
 
 ## Tech Stack
 
-- **Frontend:** React.js
+- **Frontend:** React 18
 - **Backend:** Flask (Python)
 - **Database:** SQLite
 - **Web Scraping:** BeautifulSoup4, Requests
