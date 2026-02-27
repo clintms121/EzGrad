@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad ls-files:*)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad log --oneline -10)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad show c6e0402 --stat)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad diff --name-only)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad status --short)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad ls-tree:*)",
+      "Bash(git -C /c/Users/clint/OneDrive/Documents/School/My_Major/Code/Projects/CodingCats/EzGrad diff HEAD backend/app/main.py)"
+    ]
+  }
+}
